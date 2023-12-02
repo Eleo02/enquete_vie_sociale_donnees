@@ -1,12 +1,57 @@
-class TextJustifier
+
 # Enquête sur un indice boursier : le CAC 40
 
 ## I - Histoire de l’indice
+class TextJustifier
 
+  attr_accessor :text, :length
 
-Le CAC 40 (Cotation assistée en continu), principal indice boursier de la bourse de Paris, est un indicateur relativement récent. Auparavant acronyme de la compagnie des agents de Change, il voit le jour en 1987 à l’initiative de cette même compagnie.
+  def initialize(text, length)
+    @text, @length = text, length
+  end
+
+  def calc_line_length(line)
+    line.map{|w| w.length}.reduce(0){|sum, s| sum+s} + line.length - 1
+  end
+
+  def prepare_line(line, net_line_length)
+    remaining_space_count = @length - net_line_length + line.size - 1
+    remaining_space_count.times do |i|
+      word_index = i%(line.length-1)
+      line[word_index] = line[word_index] + ' '
+    end
+    line.join
+  end
+
+  def justify
+    words = @text.split(' ')
+    line = []
+    lines = []
+    words.each do |w|
+      total_line_length = calc_line_length(line)
+      if total_line_length + w.length < @length
+        line << w
+      else
+        lines << prepare_line(line, total_line_length)
+        line = []
+      end
+    end
+    lines.join("/n")
+  end
+
+  def self.justify_text(text, length)
+   new(text, length).justify
+  end
+
+end
+
+text = Le CAC 40 (Cotation assistée en continu), principal indice boursier de la bourse de Paris, est un indicateur relativement récent. Auparavant acronyme de la compagnie des agents de Change, il voit le jour en 1987 à l’initiative de cette même compagnie.
 Avant 1988, les performances boursières étaient mesurées par l’indice Insee de la bourse de Paris. Malgré les incertitudes géopolitiques, l’indice était élevé dans les années 1920 et 1950, soutenu par une croissance économique robuste. Cependant, cette tendance s’inverse dans les années 1960 et 1970 avec une baisse du nombre de Français porteurs d’actions. Les années 1980 marquent le retour à la hausse et les prémices de la mondialisation financière. La loi bancaire de 1984, menée sous François Mitterrand, réforme considérablement le système bancaire.
 Quelques années plus tard, le krach boursier de 1987 modifie les monopoles des transactions financières. Autrefois gérées par des officiers ministériels, les sociétés de bourse prennent le relais de ces transactions à la suite de la loi no 88-70 du 22 janvier 1988. C’est dans ce contexte que s’inscrit la création du CAC40, avec une première cotation de 1000 points le 31 décembre et une véritable entrée en vigueur le 15 juin 1988. L’objectif est de représenter la tendance générale des performances des grandes entreprises françaises et d’être représentatif de toutes les branches d’activités. Une diminution de CAC 40 est considérée par les intervenants comme une décroissance de l’économie française. 
+justified_text = TextJustifier.justify_text(text, 20)
+justified_text.split("/n").each do |line|
+  p line + "  :" + line.length.to_s
+end
 
 ## II- Composition de l’indice et évolution
 
