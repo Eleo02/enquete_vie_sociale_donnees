@@ -73,8 +73,7 @@ A ce jour, le CAC s’élève à 7299,29 points.</p>
 
 ## III- Usages économiques et financiers  / Quelles réalités ces données/indicateurs sont-ils censés représenter 
 
-<p align="justify">La capitalisation boursière : un indicateur de la santé de l’entreprise (pourquoi une entreprise déciderait-elle d’entrée en bourse ?) 
-Pour investir :
+<p align="justify">
 Les intervenants sur les marchés financiers ont besoin d’une information synthétique leur permettant de suivre l’évolution générale des cours de Bourse. C’est pourquoi ont été créés les indices boursiers comme le CAC 40, qui ont vocation à refléter la tendance générale des cours de la Bourse. 
 Les variations des indices boursiers sont scrutées de près, car elles sont considérées comme des indicateurs de la santé économique des entreprises, voire de la confiance que leur accordent les investisseurs. Cependant, il est important de noter que ces évolutions échappent souvent à une analyse purement rationnelle. Les mouvements boursiers, parfois dépourvus de logique apparente, peuvent être influencés tant par des données économiques (taux d'intérêt, l'inflation, l'emploi, la politique fiscale) que par des éléments politiques (élections nationales, crises diplomatiques, guerres, etc.) ou même par des comportements irrationnels et grégaires (on peut notamment citer la bulle spéculative sur les valeurs technologiques, aussi appelée bulle internet, dont l’éclatement en 2000 a eu des répercussions économiques significatives aux États-Unis).</p>
 
