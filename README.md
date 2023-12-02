@@ -11,19 +11,13 @@ Quelques années plus tard, le krach boursier de 1987 modifie les monopoles des 
 
 ### Composition de l’indice
 
-<p align="justify"> L'indice boursier CAC 40 est constitué de 40 valeurs d'entreprises françaises, englobant divers secteurs d'activité. La sélection de ces entreprises s'opère parmi les 100 sociétés françaises présentant les volumes d'échange de titres les plus significatifs.
-
-La pondération de chaque société au sein de l'indice est déterminée en fonction de sa capitalisation boursière. Une mise à jour régulière de la liste des entreprises intervient trimestriellement, lors des réunions du Conseil Scientifique des Indices (CSI), visant à ajuster les compositions en fonction des évolutions du marché. En cas d'opération financière exceptionnelle, le CSI peut également se réunir pour prendre des décisions pertinentes. Notons que ce comité est composé d'experts de l'Autorité des marchés financiers (AMF).
-
-Les critères de sélection reposent sur deux classements principaux. Tout d'abord, le montant des volumes échangés sur Euronext au cours d'une période donnée, reflétant la liquidité et l'attrait d'un titre. Ensuite, la capitalisation boursière flottante, qui représente la partie de la capitalisation boursière disponible à la négociation, excluant les titres détenus à plus de 5% par certains actionnaires.
-
-Des règles de plafonnement sont également en place, empêchant toute société de dépasser 15% de la composition totale de l'indice CAC 40. Ces règles sont établies par les experts d'Euronext en fonction des critères mentionnés précédemment.
+<p align="justify"> L'indice boursier CAC 40 est constitué de 40 valeurs d'entreprises françaises, englobant divers secteurs d'activité. La sélection de ces entreprises s'opère parmi les 100 sociétés françaises présentant les volumes d'échange de titres les plus significatifs.La pondération de chaque société au sein de l'indice est déterminée en fonction de sa capitalisation boursière. Une mise à jour régulière de la liste des entreprises intervient trimestriellement, lors des réunions du Conseil Scientifique des Indices (CSI), visant à ajuster les compositions en fonction des évolutions du marché. En cas d'opération financière exceptionnelle, le CSI peut également se réunir pour prendre des décisions pertinentes. Notons que ce comité est composé d'experts de l'Autorité des marchés financiers (AMF).Les critères de sélection reposent sur deux classements principaux. Tout d'abord, le montant des volumes échangés sur Euronext au cours d'une période donnée, reflétant la liquidité et l'attrait d'un titre. Ensuite, la capitalisation boursière flottante, qui représente la partie de la capitalisation boursière disponible à la négociation, excluant les titres détenus à plus de 5% par certains actionnaires.Des règles de plafonnement sont également en place, empêchant toute société de dépasser 15% de la composition totale de l'indice CAC 40. Ces règles sont établies par les experts d'Euronext en fonction des critères mentionnés précédemment.
 Bien que le processus de classement soit basé sur des calculs mathématiques, il peut également impliquer des discussions au sein du conseil. Ces échanges visent à éviter des entrées et sorties trop fréquentes d'une même valeur au cours d'une année. En conséquence, les 35 premières valeurs du classement mathématique sont directement intégrées au marché, tandis que de la 36ème à la 45ème place, la priorité est accordée aux entreprises déjà présentes dans l'indice, favorisant ainsi la stabilité.
 Les valeurs qui suivent les 40 entreprises du CAC 40 sont regroupées dans le CAC 20 Next, puis dans le CAC Mid 60. L'ensemble de ces composantes, à savoir le CAC 40, le CAC 20 Next et le CAC Mid 60, convergent pour former l'indice global du SBF 120. Ce dernier offre une perspective plus étendue du marché financier en intégrant un spectre plus large d'entreprises, reflétant ainsi la diversité et la complexité du paysage économique français. Ainsi, le SBF 120 se positionne en tant qu'indicateur global, englobant différentes strates de sociétés cotées et permettant aux investisseurs d'appréhender de manière plus complète les tendances et évolutions du marché boursier en France. La variation des valeurs tous les jours fait baisser l’indice du CAC 40, en fonction du poids de chaque valeur.</p>
 
 ### Qui sont les actionnaires du CAC 40
 
-Les investisseurs étrangers jouent un rôle significatif sur le marché financier français, représentant 42% du capital total, dont 45% proviennent de la zone euro. Parmi ces investisseurs étrangers, on compte de nombreux fonds de pension ainsi que des fonds souverains, tels que ceux de la Norvège, mais aussi des acteurs majeurs tels que BlackRock et Vanguard Group.
+<p align="justify">Les investisseurs étrangers jouent un rôle significatif sur le marché financier français, représentant 42% du capital total, dont 45% proviennent de la zone euro. Parmi ces investisseurs étrangers, on compte de nombreux fonds de pension ainsi que des fonds souverains, tels que ceux de la Norvège, mais aussi des acteurs majeurs tels que BlackRock et Vanguard Group.
 
 Les cinq plus importants gestionnaires de fonds français détiennent conjointement 7% de l'indice, consolidant ainsi leur influence sur la composition et les performances du CAC 40. De manière notable, les familles et les fondateurs d'entreprises possèdent une part significative, représentant 10% du CAC 40, tandis que les salariés détiennent 4% du capital. Cette part est en progression avec le développement de l’actionnariat salarié.
 
@@ -78,14 +72,13 @@ Veolia Environnement
 Vinci
 Worldline
 
-A ce jour, le CAC s’élève à 7299,29 points. 
+A ce jour, le CAC s’élève à 7299,29 points.</p>
 
 
 ## III- Usages économiques et financiers  / Quelles réalités ces données/indicateurs sont-ils censés représenter 
 
 La capitalisation boursière : un indicateur de la santé de l’entreprise (pourquoi une entreprise déciderait-elle d’entrée en bourse ?) 
-Pour investir 
-
+Pour investir :
 Les intervenants sur les marchés financiers ont besoin d’une information synthétique leur permettant de suivre l’évolution générale des cours de Bourse. C’est pourquoi ont été créés les indices boursiers comme le CAC 40, qui ont vocation à refléter la tendance générale des cours de la Bourse. 
 
 Les variations des indices boursiers sont scrutées de près, car elles sont considérées comme des indicateurs de la santé économique des entreprises, voire de la confiance que leur accordent les investisseurs. Cependant, il est important de noter que ces évolutions échappent souvent à une analyse purement rationnelle. Les mouvements boursiers, parfois dépourvus de logique apparente, peuvent être influencés tant par des données économiques (taux d'intérêt, l'inflation, l'emploi, la politique fiscale) que par des éléments politiques (élections nationales, crises diplomatiques, guerres, etc.) ou même par des comportements irrationnels et grégaires (on peut notamment citer la bulle spéculative sur les valeurs technologiques, aussi appelée bulle internet, dont l’éclatement en 2000 a eu des répercussions économiques significatives aux États-Unis).
@@ -139,17 +132,11 @@ Aujourd'hui plusieurs fonds passifs (ETF) proposent de répliquer la performance
 
 ### V- Aspects réglementaires 
 
-Un règlement européen sur les indices de référence a été adopté en 2016 (en vigueur depuis 2018) afin fournir un cadre à l’activité de fourniture d’un indice de référence, mais aussi à son utilisation. Le règlement Benchmark définit la notion d’indice comme de tout chiffre qui est publié ou mis à la disposition du public qui est régulièrement déterminé soit par une formule ou calcul soit par sur la base de la valeur d'un ou de plusieurs actifs sous-jacents (prix, taux d’intérêt …). 
-
+<p align="justify">Un règlement européen sur les indices de référence a été adopté en 2016 (en vigueur depuis 2018) afin fournir un cadre à l’activité de fourniture d’un indice de référence, mais aussi à son utilisation. Le règlement Benchmark définit la notion d’indice comme de tout chiffre qui est publié ou mis à la disposition du public qui est régulièrement déterminé soit par une formule ou calcul soit par sur la base de la valeur d'un ou de plusieurs actifs sous-jacents (prix, taux d’intérêt …). 
 Selon ce même règlement, un indice est considéré comme étant de de référence lorsqu’il est utilisé pour déterminer “le montant à verser au titre d'un instrument ou d'un contrat financier, ou le prix d'un instrument financier”.
-
 Au sens du règlement Benchmark, les administrateurs d’indices de référence sont les personnes morales ou physiques qui contrôlent la fourniture d’un indice de référence (définition du processus de détermination de l’indice, collecte, analyse et traitement des données sous-jacentes nécessaire à la détermination de l’indice etc…)
-
 De nombreuses exigences à l’égard des administrateurs d’indices de référence sont prévues dans le règlement Benchmark. Ils sont par exemple tenus d'encadrer les risques de conflits d’intérêts, de mettre en place d’un dispositif de contrôle et de gouvernance ou encore d’assurer la transparence de l’indice auprès des investisseurs et des utilisateurs.
-
 Au regard de la définition énoncée plus haut, le CAC 40 est concerné par le règlement européen sur les indices de référence. Euronext doit par conséquent se conformer aux obligations relatives à la fourniture d'informations détaillées sur la méthodologie de calcul de l'indice ou à la mise en place de procédures de contrôle. 
-
 De plus, une modification à ce règlement a été apportée en 2019 afin de renforcer le cadre européen en matière de finance durable. En effet, les indices jouent un rôle central en matière d’investissements ESG. Afin de dissiper l’opacité qui les caractérisaient et d’atténuer les divergences de construction, le législateur européen a élargi le champ des indices encadrés avec l’ajout de l’administration d’indices ESG dans le périmètre de la réglementation. Un ensemble d’obligations de transparence a entre autres été mis en place pour les indices de ce type. Par exemple, l’administrateur doit désormais rendre publique “la manière dont les principaux éléments de la méthodologie (…) tiennent compte des facteurs ESG”.
-
-L’encadrement de l’administration d’indice par le législateur européen peut s’expliquer par le fait que le prix de nombreux instruments et contrats financiers dépendent de la précision et de l'intégrité des indices de référence utilisés. De plus, des cas de manipulation d'indices de référence de taux d'intérêt (le scandale du Libor et de l'Euribor) démontrent l’existence de possibles conflits d'intérêts dans la fabrication des indices.
+L’encadrement de l’administration d’indice par le législateur européen peut s’expliquer par le fait que le prix de nombreux instruments et contrats financiers dépendent de la précision et de l'intégrité des indices de référence utilisés. De plus, des cas de manipulation d'indices de référence de taux d'intérêt (le scandale du Libor et de l'Euribor) démontrent l’existence de possibles conflits d'intérêts dans la fabrication des indices.</p>
 
