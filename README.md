@@ -6,7 +6,7 @@ Le CAC 40 (Cotation assistée en continu), principal indice boursier de la bours
 Avant 1988, les performances boursières étaient mesurées par l’indice Insee de la bourse de Paris. Malgré les incertitudes géopolitiques, l’indice était élevé dans les années 1920 et 1950, soutenu par une croissance économique robuste. Cependant, cette tendance s’inverse dans les années 1960 et 1970 avec une baisse du nombre de Français porteurs d’actions. Les années 1980 marquent le retour à la hausse et les prémices de la mondialisation financière. La loi bancaire de 1984, menée sous François Mitterrand, réforme considérablement le système bancaire.
 Quelques années plus tard, le krach boursier de 1987 modifie les monopoles des transactions financières. Autrefois gérées par des officiers ministériels, les sociétés de bourse prennent le relais de ces transactions à la suite de la loi no 88-70 du 22 janvier 1988. C’est dans ce contexte que s’inscrit la création du CAC40, avec une première cotation de 1000 points le 31 décembre et une véritable entrée en vigueur le 15 juin 1988. L’objectif est de représenter la tendance générale des performances des grandes entreprises françaises et d’être représentatif de toutes les branches d’activités. Une diminution de CAC 40 est considérée par les intervenants comme une décroissance de l’économie française. 
 
-## II- Composition de l’indice et évolution (Raphaël)
+## II- Composition de l’indice et évolution
 
 ### Composition de l’indice
 
@@ -30,7 +30,7 @@ Les cinq plus importants gestionnaires de fonds français détiennent conjointem
 
 En outre, l'État détient une participation de 3% dans le capital des entreprises composant l'indice. Cette répartition diversifiée entre investisseurs étrangers, gestionnaires de fonds, acteurs nationaux et parties prenantes internes confère une dynamique complexe au paysage actionnarial du CAC 40, reflétant les diverses sources de financement et d'influence qui contribuent à façonner le marché boursier français.
 
-###Évolution:
+### Évolution:
 
 Après avoir examiné les dynamiques liées aux entrées et sorties de valeurs au sein du CAC 40, explorons à présent l'évolution des titres au sein de cet indice. Il est crucial de rappeler que le CAC 40 représente un marché où s'échangent des titres secondaires, ne provenant donc pas directement des entreprises. Dans ce contexte, le prix de ces titres est déterminé par les principes fondamentaux de l'offre et de la demande.
 
