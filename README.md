@@ -11,7 +11,7 @@ Quelques années plus tard, le krach boursier de 1987 modifie les monopoles des 
 
 ### Composition de l’indice
 
-L'indice boursier CAC 40 est constitué de 40 valeurs d'entreprises françaises, englobant divers secteurs d'activité. La sélection de ces entreprises s'opère parmi les 100 sociétés françaises présentant les volumes d'échange de titres les plus significatifs.
+<div dir="rtl">L'indice boursier CAC 40 est constitué de 40 valeurs d'entreprises françaises, englobant divers secteurs d'activité. La sélection de ces entreprises s'opère parmi les 100 sociétés françaises présentant les volumes d'échange de titres les plus significatifs.
 
 La pondération de chaque société au sein de l'indice est déterminée en fonction de sa capitalisation boursière. Une mise à jour régulière de la liste des entreprises intervient trimestriellement, lors des réunions du Conseil Scientifique des Indices (CSI), visant à ajuster les compositions en fonction des évolutions du marché. En cas d'opération financière exceptionnelle, le CSI peut également se réunir pour prendre des décisions pertinentes. Notons que ce comité est composé d'experts de l'Autorité des marchés financiers (AMF).
 
@@ -19,9 +19,7 @@ Les critères de sélection reposent sur deux classements principaux. Tout d'abo
 
 Des règles de plafonnement sont également en place, empêchant toute société de dépasser 15% de la composition totale de l'indice CAC 40. Ces règles sont établies par les experts d'Euronext en fonction des critères mentionnés précédemment.
 Bien que le processus de classement soit basé sur des calculs mathématiques, il peut également impliquer des discussions au sein du conseil. Ces échanges visent à éviter des entrées et sorties trop fréquentes d'une même valeur au cours d'une année. En conséquence, les 35 premières valeurs du classement mathématique sont directement intégrées au marché, tandis que de la 36ème à la 45ème place, la priorité est accordée aux entreprises déjà présentes dans l'indice, favorisant ainsi la stabilité.
-Les valeurs qui suivent les 40 entreprises du CAC 40 sont regroupées dans le CAC 20 Next, puis dans le CAC Mid 60. L'ensemble de ces composantes, à savoir le CAC 40, le CAC 20 Next et le CAC Mid 60, convergent pour former l'indice global du SBF 120. Ce dernier offre une perspective plus étendue du marché financier en intégrant un spectre plus large d'entreprises, reflétant ainsi la diversité et la complexité du paysage économique français. Ainsi, le SBF 120 se positionne en tant qu'indicateur global, englobant différentes strates de sociétés cotées et permettant aux investisseurs d'appréhender de manière plus complète les tendances et évolutions du marché boursier en France.
-
-La variation des valeurs tous les jours fait baisser l’indice du CAC 40, en fonction du poids de chaque valeur. 
+Les valeurs qui suivent les 40 entreprises du CAC 40 sont regroupées dans le CAC 20 Next, puis dans le CAC Mid 60. L'ensemble de ces composantes, à savoir le CAC 40, le CAC 20 Next et le CAC Mid 60, convergent pour former l'indice global du SBF 120. Ce dernier offre une perspective plus étendue du marché financier en intégrant un spectre plus large d'entreprises, reflétant ainsi la diversité et la complexité du paysage économique français. Ainsi, le SBF 120 se positionne en tant qu'indicateur global, englobant différentes strates de sociétés cotées et permettant aux investisseurs d'appréhender de manière plus complète les tendances et évolutions du marché boursier en France. La variation des valeurs tous les jours fait baisser l’indice du CAC 40, en fonction du poids de chaque valeur. </div>
 
 ### Qui sont les actionnaires du CAC 40
 
