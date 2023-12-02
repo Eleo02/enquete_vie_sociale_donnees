@@ -93,28 +93,19 @@ Le CAC 40 présente de nombreuses limites, tant sur le plan financier qu’envir
 
 ### Limites d’un point de vue financier 
 
-Bien que l’indice du CAC 40 soit largement utilisé comme indicateur de la santé économique française, il présente certaines limites du point de vue économique et financier. 
-
+<p align="justify">Bien que l’indice du CAC 40 soit largement utilisé comme indicateur de la santé économique française, il présente certaines limites du point de vue économique et financier. 
 Le CAC 40 est influencé par les fluctuations des marchés financiers, qui ne sont pas toujours corrélées avec la performance économique réelle des entreprises incluses dans l’indice (annonce des résultats…). Ces fluctuations peuvent s’expliquer par de nombreux autres facteurs comme la variation des taux d’intérêts, un changement dans la confiance des investisseurs, ou d'autres éléments externes (ex: guerre en Ukraine, élections …).
-
 D’autre part, le CAC 40 n’étant composé par définition que de 40 entreprises, il est difficile de généraliser sur la santé économique des entreprises françaises en partant d’un échantillon aussi mince. Les grandes entreprises représentées dans le CAC 40 ne font pas face aux mêmes problématiques que les PME. Ce fut notamment le cas en 2021, après la crise sanitaire, où les entreprises du CAC 40 ont battu des records sur plusieurs de ses indicateurs phares (activité en forte croissance, marge opérationnelle courante au plus haut, niveau d’endettement au plus bas) tandis que la majorité des sociétés de moyenne et petite tailles faisaient face à des situations plus contrastées.
-
 Comme nous l’avons évoqué plus haut, un indice comme la CAC 40 est utilisé par les investisseurs pour créer des produits financiers dont l’objectif est de suivre le plus fidèlement possible l’évolution d’un indice boursier (ETF). Cependant, la gestion indicielle joue un rôle significatif dans le caractère "moutonnier" des marchés et présente un risque financier systémique non négligeable, car en reproduisant les indices et leurs pondérations, les fonds passifs sont amenés à vendre et à acheter les mêmes titres au même moment, ce qui tend à renforcer la volatilité des cours de Bourse.</p>
 
 ### Limites environnementales
 
-Comme évoqué précédemment, l’indice du CAC 40 se fonde exclusivement sur des critères de volumes de transaction et de représentativité du secteur, sans aucune prise en compte de critères de durabilité. L’absence des éléments extra-financiers dans la composition de l’indice est problématique pour plusieurs raisons. 
-
+<p align="justify">Comme évoqué précédemment, l’indice du CAC 40 se fonde exclusivement sur des critères de volumes de transaction et de représentativité du secteur, sans aucune prise en compte de critères de durabilité. L’absence des éléments extra-financiers dans la composition de l’indice est problématique pour plusieurs raisons. 
 Tout d’abord en matière de gestion des risques. En effet, les critères ESG peuvent être indicatifs de la manière dont une entreprise gère les risques liés aux questions environnementales, sociales et de gouvernance. Une mauvaise gestion de ces risques peut avoir des répercussions financières significatives, ce qui, à long terme, peut affecter la stabilité et la performance des entreprises. Ignorer ces aspects peut conduire à une évaluation incomplète des risques auxquels les entreprises sont exposées peut rendre le CAC 40 moins pertinent en termes de durabilité financière.
-
 D’autre part, la tendance croissante vers les investissements durables et responsables se renforce et les investisseurs institutionnels comme les particuliers sont de plus en plus enclins à intégrer des critères de durabilité dans leurs décisions d'investissement. L'absence de ces critères dans le CAC 40 peut par conséquent rendre l'indice moins attractif pour les investisseurs qui cherchent à aligner leurs portefeuilles avec des considérations environnementales.
-
 Une réponse à cette critique: le CAC 40 ESG
-
 Afin de pallier aux insuffisances de l’indice du CAC 40 en matière de durabilité, Euronext a lancé le 22 mars 2021 la déclinaison “responsable” du CAC 40: le CAC 40 ESG. Son objectif est de répondre à la demande croissante d'investissement dans la finance durable. Il vise à représenter une sélection d’entreprises à forte capitalisation et dont les performances en matière d’ESG se distinguent. 
-
 Pour composer l’indice, les entreprises composant le CAC Large 60 (regroupant les 60 plus grandes capitalisations françaises) sont classées par ordre décroissant en fonction d’un score ESG mesuré par Moody’s. À score ESG égal, l'entreprise dont la capitalisation boursière flottante est la plus élevée sera mieux classée. Les 20 % de sociétés les moins bien classées dans l'univers de l'indice sur la base de ce classement ne sont pas éligibles. De plus, les entreprises présentes sur certains secteurs d’activité ne sont pas éligibles (par exemple le charbon ou les armes controversées).  L’indice est revu trimestriellement afin de rester le plus pertinent possible. 
-
 Tout l’intérêt de cet indice repose sur la quantification de la performance extra-financière des entreprises représentées dans l’indice. La prise en compte des critères ESG dans la méthodologie est donc centrale. Euronext fait appel a Moody's ESG Solutions afin d’évaluer et noter les performances des entreprises selon la méthodologie Equitics sur la base de 38 critères, répartis en six domaines de la responsabilité environnementale, sociale et de gouvernance des entreprises : 
 Environnement : Protection, sauvegarde, prévention des atteintes à l'environnement, éco-conception, protection de l'environnement, protection de la biodiversité et contrôle des impacts environnementaux sur l'ensemble du cycle de vie des produits et services.
 Droits de l'homme : Respect de la liberté syndicale liberté syndicale et promotion de la négociation négociation collective, non-discrimination et promotion de l'égalité, éradication des traitements inhumains ou humiliants.
@@ -122,8 +113,7 @@ Ressources humaines : Amélioration constante des relations industrielles, de l'
 Participation à la vie de la communauté : Contribution au développement économique et social des territoires d'implantation, engagement concret en faveur de la maîtrise des impacts sociétaux des produits et services, participation à des causes d'intérêt général.
 Comportement des entreprises : Prise en compte des droits et des intérêts des clients, intégration des normes sociales et environnementales dans le processus de sélection des fournisseurs et dans l'ensemble de la chaîne d'approvisionnement, prévention efficace de la corruption et respect des lois sur la concurrence.
 Gouvernance d'entreprise : efficacité et intégrité,  l'assurance de l'indépendance et de l'efficacité du conseil d'administration, l'efficience des procédures d'audit et de contrôle, le respect des droits des actionnaires, la transparence et la modération de la rémunération des dirigeants.
-
-Aujourd'hui plusieurs fonds passifs (ETF) proposent de répliquer la performance de l’indice CAC 40 ESG.
+Aujourd'hui plusieurs fonds passifs (ETF) proposent de répliquer la performance de l’indice CAC 40 ESG.</p>
 
 ### V- Aspects réglementaires 
 
