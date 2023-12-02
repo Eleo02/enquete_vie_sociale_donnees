@@ -1,6 +1,7 @@
 # Enquête sur un indice boursier : le CAC 40
 
 ## I - Histoire de l’indice
+class TextJustifier
 
 Le CAC 40 (Cotation assistée en continu), principal indice boursier de la bourse de Paris, est un indicateur relativement récent. Auparavant acronyme de la compagnie des agents de Change, il voit le jour en 1987 à l’initiative de cette même compagnie.
 Avant 1988, les performances boursières étaient mesurées par l’indice Insee de la bourse de Paris. Malgré les incertitudes géopolitiques, l’indice était élevé dans les années 1920 et 1950, soutenu par une croissance économique robuste. Cependant, cette tendance s’inverse dans les années 1960 et 1970 avec une baisse du nombre de Français porteurs d’actions. Les années 1980 marquent le retour à la hausse et les prémices de la mondialisation financière. La loi bancaire de 1984, menée sous François Mitterrand, réforme considérablement le système bancaire.
