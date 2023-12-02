@@ -6,9 +6,9 @@ Le CAC 40 (Cotation assistée en continu), principal indice boursier de la bours
 Avant 1988, les performances boursières étaient mesurées par l’indice Insee de la bourse de Paris. Malgré les incertitudes géopolitiques, l’indice était élevé dans les années 1920 et 1950, soutenu par une croissance économique robuste. Cependant, cette tendance s’inverse dans les années 1960 et 1970 avec une baisse du nombre de Français porteurs d’actions. Les années 1980 marquent le retour à la hausse et les prémices de la mondialisation financière. La loi bancaire de 1984, menée sous François Mitterrand, réforme considérablement le système bancaire.
 Quelques années plus tard, le krach boursier de 1987 modifie les monopoles des transactions financières. Autrefois gérées par des officiers ministériels, les sociétés de bourse prennent le relais de ces transactions à la suite de la loi no 88-70 du 22 janvier 1988. C’est dans ce contexte que s’inscrit la création du CAC40, avec une première cotation de 1000 points le 31 décembre et une véritable entrée en vigueur le 15 juin 1988. L’objectif est de représenter la tendance générale des performances des grandes entreprises françaises et d’être représentatif de toutes les branches d’activités. Une diminution de CAC 40 est considérée par les intervenants comme une décroissance de l’économie française. 
 
-##II- Composition de l’indice et évolution (Raphaël)
+## II- Composition de l’indice et évolution (Raphaël)
 
-###Composition de l’indice
+### Composition de l’indice
 
 L'indice boursier CAC 40 est constitué de 40 valeurs d'entreprises françaises, englobant divers secteurs d'activité. La sélection de ces entreprises s'opère parmi les 100 sociétés françaises présentant les volumes d'échange de titres les plus significatifs.
 
@@ -22,7 +22,7 @@ Les valeurs qui suivent les 40 entreprises du CAC 40 sont regroupées dans le CA
 
 La variation des valeurs tous les jours fait baisser l’indice du CAC 40, en fonction du poids de chaque valeur. 
 
-###Qui sont les actionnaires du CAC 40
+### Qui sont les actionnaires du CAC 40
 
 Les investisseurs étrangers jouent un rôle significatif sur le marché financier français, représentant 42% du capital total, dont 45% proviennent de la zone euro. Parmi ces investisseurs étrangers, on compte de nombreux fonds de pension ainsi que des fonds souverains, tels que ceux de la Norvège, mais aussi des acteurs majeurs tels que BlackRock et Vanguard Group.
 
@@ -82,7 +82,7 @@ Worldline
 A ce jour, le CAC s’élève à 7299,29 points. 
 
 
-##III- Usages économiques et financiers  / Quelles réalités ces données/indicateurs sont-ils censés représenter 
+## III- Usages économiques et financiers  / Quelles réalités ces données/indicateurs sont-ils censés représenter 
 
 La capitalisation boursière : un indicateur de la santé de l’entreprise (pourquoi une entreprise déciderait-elle d’entrée en bourse ?) 
 Pour investir 
@@ -91,20 +91,20 @@ Les intervenants sur les marchés financiers ont besoin d’une information synt
 
 Les variations des indices boursiers sont scrutées de près, car elles sont considérées comme des indicateurs de la santé économique des entreprises, voire de la confiance que leur accordent les investisseurs. Cependant, il est important de noter que ces évolutions échappent souvent à une analyse purement rationnelle. Les mouvements boursiers, parfois dépourvus de logique apparente, peuvent être influencés tant par des données économiques (taux d'intérêt, l'inflation, l'emploi, la politique fiscale) que par des éléments politiques (élections nationales, crises diplomatiques, guerres, etc.) ou même par des comportements irrationnels et grégaires (on peut notamment citer la bulle spéculative sur les valeurs technologiques, aussi appelée bulle internet, dont l’éclatement en 2000 a eu des répercussions économiques significatives aux États-Unis).
 
-###La gestion indicielle 
+### La gestion indicielle 
 
 Les indices servent également aux gestionnaires de fonds pratiquant la gestion passive. Un investisseur pratiquant la gestion active (c’est à dire  en choisissant d'investir dans telle ou telle action) a peu de chance sur le long terme d’obtenir une meilleure performance que le marché. Par conséquent, certains investisseurs estiment plus rationnel de constituer un portefeuille de titres dont la composition reproduit à l’identique celle de l'indice boursier du marché considéré ou d’acheter des parts d’ETF. Les ETF (Exchange Traded Fund), aussi appelés tracker, sont des fonds indiciels qui cherchent à suivre le plus fidèlement possible l’évolution d’un indice boursier, à la hausse comme à la baisse. Une part croissante des placements en Bourse sont gérées de cette manière, et en particulier les fonds de pension ou les fonds de type assurance-vie, dans la mesure ou la certitude de rendement doit primer sur le risque. 
 
-###La notoriété engendrée par la présence dans l’indice du CAC 40
+### La notoriété engendrée par la présence dans l’indice du CAC 40
 
 L'intégration d'une entreprise cotée dans la composition d’un indice boursier comme le CAC 40 revêt une importance cruciale. Tout d'abord, elle constitue un facteur déterminant pour accroître la notoriété de la société. En effet, les analyses portant sur la société se multiplient, générant une visibilité accrue par rapport à ses concurrentes qui ne figurent pas dans ces indices. De plus, les actions incluses dans les indices bénéficient d'une demande automatique de la part des gestionnaires pratiquant la gestion indicielle, ce qui entraîne une hausse de leur valeur. Un exemple notable est celui d'EDF, qui, après son inclusion dans le CAC 40 le 19 décembre 2005, avait vu son cours augmenter de manière significative en quelques semaines. En revanche, le contrecoup peut être sévère lorsque la valeur est exclue d'un indice, en raison, par exemple, de sa faible liquidité ou de la diminution de sa capitalisation boursière. Les gestionnaires réagissent en vendant ces actions, entraînant ainsi une chute de leur cours. Un cas illustratif est celui de Vivendi qui fut retiré de l’indice le 19 juin dernier et dont le cours de bourse a concomitamment reculé de plus de 2%.
 
 
-##IV- Critique et limites de l’indice
+## IV- Critique et limites de l’indice
 
 Le CAC 40 présente de nombreuses limites, tant sur le plan financier qu’environnemental.
 
-###Limites d’un point de vue financier 
+### Limites d’un point de vue financier 
 
 Bien que l’indice du CAC 40 soit largement utilisé comme indicateur de la santé économique française, il présente certaines limites du point de vue économique et financier. 
 
@@ -114,7 +114,7 @@ D’autre part, le CAC 40 n’étant composé par définition que de 40 entrepri
 
 Comme nous l’avons évoqué plus haut, un indice comme la CAC 40 est utilisé par les investisseurs pour créer des produits financiers dont l’objectif est de suivre le plus fidèlement possible l’évolution d’un indice boursier (ETF). Cependant, la gestion indicielle joue un rôle significatif dans le caractère "moutonnier" des marchés et présente un risque financier systémique non négligeable, car en reproduisant les indices et leurs pondérations, les fonds passifs sont amenés à vendre et à acheter les mêmes titres au même moment, ce qui tend à renforcer la volatilité des cours de Bourse. 
 
-###Limites environnementales
+### Limites environnementales
 
 Comme évoqué précédemment, l’indice du CAC 40 se fonde exclusivement sur des critères de volumes de transaction et de représentativité du secteur, sans aucune prise en compte de critères de durabilité. L’absence des éléments extra-financiers dans la composition de l’indice est problématique pour plusieurs raisons. 
 
@@ -138,7 +138,7 @@ Gouvernance d'entreprise : efficacité et intégrité,  l'assurance de l'indépe
 
 Aujourd'hui plusieurs fonds passifs (ETF) proposent de répliquer la performance de l’indice CAC 40 ESG.
 
-###V- Aspects réglementaires 
+### V- Aspects réglementaires 
 
 Un règlement européen sur les indices de référence a été adopté en 2016 (en vigueur depuis 2018) afin fournir un cadre à l’activité de fourniture d’un indice de référence, mais aussi à son utilisation. Le règlement Benchmark définit la notion d’indice comme de tout chiffre qui est publié ou mis à la disposition du public qui est régulièrement déterminé soit par une formule ou calcul soit par sur la base de la valeur d'un ou de plusieurs actifs sous-jacents (prix, taux d’intérêt …). 
 
